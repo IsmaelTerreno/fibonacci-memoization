@@ -31,6 +31,7 @@ const demo = {
     })()
 };
 
-// 
+// Just use the fibonacci.
 demo.fibonacci(40, false);
+// or debug the content results from cache.
 demo.fibonacci(40, true);
